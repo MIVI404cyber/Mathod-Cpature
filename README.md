@@ -1,5 +1,5 @@
 # Mathod-Cpature
-# command
+# Command
 - pkg updete
 - pkg upgrete
 - pkg install python
