@@ -9,7 +9,7 @@
 - rm -rf Mathod-Cpature
 - git clone https://github.com/MIVI404cyber/Mathod-Cpature
 - cd Mathod-Cpature
-- python F_F_Crack_enc.py
+- python Method.py
 # Single Command
-- pkg updete ; pkg upgrete ; pkg install python ; pkg install git ; rm -rf Mathod-Cpature ; git clone https://github.com/MIVI404cyber/Mathod-Cpature ; cd Mathod-Cpature ; python F_F_Crack_enc.py
+- pkg updete ; pkg upgrete ; pkg install python ; pkg install git ; rm -rf Mathod-Cpature ; git clone https://github.com/MIVI404cyber/Mathod-Cpature ; cd Mathod-Cpature ; python Method.py
 # Thanks All (💝)
